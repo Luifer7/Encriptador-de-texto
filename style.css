@@ -10,7 +10,7 @@
 body {
   background-color: lightgray;
   font-family: 'Poppins', sans-serif;
-  background-image: url(/the-riddler-wallpaper-preview.jpg);
+  background-image: url(the-riddler-wallpaper-preview.jpg);
   max-height: 800px;
 
 }
