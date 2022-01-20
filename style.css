@@ -291,6 +291,32 @@ body {
     
   }
 
+ @media screen and (max-width: 1259px) {
+
+    .titulo-2  {
+
+      font-size: 17px;
+      
+      
+    }
+
+    .img-candado {
+     
+      width: 30px;
+      height: 50%;
+      margin: auto;
+      margin-left: 20px;
+      margin-right: 20px;
+     
+   }
+
+
+
+
+  }
+
+
+
 
   @media  (max-width: 1025px) {
 
@@ -336,6 +362,51 @@ body {
   
     
   }
+
+ @media  screen and (max-width: 1055px) {
+
+    .titulo-2  {
+
+      font-size: 15px;
+      
+    }
+
+    .img-candado {
+     
+      width: 30px;
+      height: 50%;
+      margin: auto;
+      margin-left: 10px;
+      margin-right: 10px;
+     
+   }
+
+   .boton-desencriptar {
+
+    font-size: 10px;
+   }
+
+   .boton-encriptar {
+
+    font-size: 13px;
+   }
+
+
+  }
+
+
+
+  @media  screen and (max-width: 873px) {
+
+    .titulo-2  {
+
+      font-size: 20px;
+      
+    }
+
+
+  }
+
 
 
 
